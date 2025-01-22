@@ -1,0 +1,1 @@
+[WARNING] Failed to cancel order with track 435267. Code: 400, body: {"code":400,"message":"Недостаточно данных для поиска"}
