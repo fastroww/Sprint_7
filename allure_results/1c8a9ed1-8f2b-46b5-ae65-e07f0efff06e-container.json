@@ -1,0 +1,1 @@
+{"uuid": "ba464afe-7ed0-4aad-a413-a0b61018ed94", "children": ["badbb8dd-8211-448b-9dca-1e646cbcb1b2"], "befores": [{"name": "cancel_orders_fixture", "status": "passed", "start": 1737511780830, "stop": 1737511780830}], "afters": [{"name": "cancel_orders_fixture::0", "status": "passed", "start": 1737511782974, "stop": 1737511782974}], "start": 1737511780830, "stop": 1737511782974}
